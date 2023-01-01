@@ -3,7 +3,7 @@ beautifulsoup4
 hachoir
 numpy
 Pillow
-pyrogram==1.3.6
+pyrogram==1.4.12
 requests
 tgcrypto
 youtube-dl
@@ -14,3 +14,4 @@ lk21
 motor
 https://github.com/Tinche/aiofiles/archive/master.zip
 dnspython
+yt-dlp
